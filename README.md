@@ -44,3 +44,18 @@ Main - Punto de entrada de la aplicación
 
 
 <img width="3311" height="3673" alt="Image" src="https://github.com/user-attachments/assets/5da76aa5-c84a-40ae-b6fb-256d805cce76" />
+
+
+| Clase             | Atributo         | Codificación       | Objetivo                                                     |
+|-------------------|------------------|---------------------|--------------------------------------------------------------|
+| Usuario           | id               | id                  | Identificador único del usuario (formato 11AA11)            |
+| Usuario           | nombre           | nombre              | Nombre del trabajador                                        |
+| Usuario           | apellido         | apellido            | Apellido del trabajador                                      |
+| RegistroAcceso    | idUsuario        | idUsuario           | ID del usuario que realiza el acceso                         |
+| RegistroAcceso    | tipoAcceso       | tipoAcceso          | Tipo de acceso ("INGRESO" o "SALIDA")                       |
+| RegistroAcceso    | fechaHora        | fechaHora           | Fecha y hora del registro automático                         |
+| InterfazPrincipal | usuarios         | usuarios            | Lista de usuarios registrados en el sistema                  |
+| InterfazPrincipal | registros        | registros           | Lista histórica de registros de acceso                       |
+| GestorArchivos    | ARCHIVO_USUARIOS | ARCHIVO_USUARIOS    | Nombre del archivo para persistir usuarios                   |
+| GestorArchivos    | ARCHIVO_REGISTROS| ARCHIVO_REGISTROS   | Nombre del archivo para persistir registros                  |
+
