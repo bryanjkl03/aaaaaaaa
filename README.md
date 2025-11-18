@@ -1,43 +1,43 @@
-markdown
+## Fase II: Diseño del Sistema
 
-Fase II: Diseño del Sistema
-Listado de Sustantivos → Clases del Sistema
-Sustantivos identificados del enunciado:
+# Listado de Sustantivos → Clases del Sistema
 
-Usuario
+# Sustantivos identificados del enunciado:
 
-Acceso
+-Usuario
 
-Registro
+-Acceso
 
-Control
+-Registro
 
-Seguridad
+-Control
 
-Empresa
+-Seguridad
 
-Trabajador
+-Empresa
 
-Sistema
+-Trabajador
 
-Clases identificadas del código:
+-Sistema
 
-Usuario - Representa a un trabajador de la empresa
+# Clases identificadas del código:
 
-RegistroAcceso - Representa un registro de ingreso/salida
+-Usuario - Representa a un trabajador de la empresa
 
-InterfazPrincipal - Control principal del sistema
+-RegistroAcceso - Representa un registro de ingreso/salida
 
-GestorArchivos - Maneja la persistencia de datos
+-InterfazPrincipal - Control principal del sistema
 
-RegistroUsuario - Interfaz para registrar usuarios
+-GestorArchivos - Maneja la persistencia de datos
 
-EliminarUsuario - Interfaz para eliminar usuarios
+-RegistroUsuario - Interfaz para registrar usuarios
 
-IngresoUsuario - Interfaz para registrar ingresos
+-EliminarUsuario - Interfaz para eliminar usuarios
 
-SalidaUsuario - Interfaz para registrar salidas
+-IngresoUsuario - Interfaz para registrar ingresos
 
-Licencia - Interfaz de términos y condiciones
+-SalidaUsuario - Interfaz para registrar salidas
+
+-Licencia - Interfaz de términos y condiciones
 
 Main - Punto de entrada de la aplicación
