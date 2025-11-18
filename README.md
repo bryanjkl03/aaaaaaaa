@@ -266,7 +266,7 @@
 
 
 
-#Documentacion atributos de la clase
+## Documentacion atributos de la clase
 | Clase             | Atributo         | Codificación       | Objetivo                                                     |
 |-------------------|------------------|---------------------|--------------------------------------------------------------|
 | Usuario           | id               | string                  | Identificador único del usuario (formato 11AA11)            |
