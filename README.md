@@ -41,3 +41,6 @@
 -Licencia - Interfaz de términos y condiciones
 
 Main - Punto de entrada de la aplicación
+
+
+<img width="3311" height="3673" alt="Image" src="https://github.com/user-attachments/assets/5da76aa5-c84a-40ae-b6fb-256d805cce76" />
