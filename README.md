@@ -41,6 +41,7 @@
   </tr>
 </table>
 
+#
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width:350px;">
   <tr><th style="background:#f2f2f2; text-align:center;">InterfazPrincipal</th></tr>
   <tr>
