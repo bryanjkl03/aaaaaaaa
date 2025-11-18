@@ -405,7 +405,9 @@
 | Firma del Método | public boolean puedeSalir(String idUsuario) |
 
 # Clase Usuario
+
 # Usuario(String, String, String)
+
 | Nombre del Método | Usuario |
 | Entrada | String id, String nombre, String apellido |
 | Resultado | Ninguno (constructor) |
@@ -414,6 +416,7 @@
 
 
 # getId()
+
 | Nombre del Método | getId |
 | Entrada | Ninguna |
 | Resultado | String |
@@ -422,6 +425,7 @@
 
 
 # getNombre()
+
 | Nombre del Método | getNombre |
 | Entrada | Ninguna |
 | Resultado | String |
@@ -429,6 +433,7 @@
 | Firma del Método | public String getNombre() |
 
 # getApellido()
+
 | Nombre del Método | getApellido |
 | Entrada | Ninguna |
 | Resultado | String |
@@ -437,6 +442,7 @@
 
 
 # getIniciales()
+
 | Nombre del Método | getIniciales |
 | Entrada | Ninguna |
 | Resultado | String |
@@ -444,6 +450,7 @@
 | Firma del Método | public String getIniciales() |
 
 # toString()
+
 | Nombre del Método | toString |
 | Entrada | Ninguna |
 | Resultado | String |
